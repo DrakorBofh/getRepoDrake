@@ -1,0 +1,681 @@
+<?xml version='1.0'?>
+<ListaRepositorios>
+<Repositorio>
+  <Nombre>BDK</Nombre>
+   <NCompleto>Repositorio BlogDrake</NCompleto>
+   <Rama>
+      <Version>5</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia5/i586/</Comando>
+  </Rama>
+  <Rama>
+      <Version>5</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia5/x86_64/</Comando>
+  </Rama>
+   <Rama>
+      <Version>4</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia4/i586/</Comando>
+  </Rama>
+  <Rama>
+      <Version>4</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia4/x86_64/</Comando>
+  </Rama>
+  
+  <Rama>
+      <Version>3</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia3/i586/</Comando>
+  </Rama>
+  <Rama>
+      <Version>3</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia3/x86_64/</Comando>
+  </Rama>
+   
+  <Rama>
+      <Version>2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia2/i586/</Comando>
+  </Rama>
+  <Rama>
+      <Version>2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia2/x86_64/</Comando>
+  </Rama>
+
+  <Rama>
+      <Version>1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia1/i586/</Comando>
+  </Rama>
+  <Rama>
+      <Version>1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib http://ftp.blogdrake.net/mageia/mageia1/x86_64/</Comando>
+  </Rama>
+</Repositorio>
+
+<Repositorio>
+ <Nombre>MGR</Nombre>
+ <NCompleto>Mageia Greece</NCompleto>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-x86_64 http://www.mageia-gr.org/rpm/5/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/5/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-x86_64 http://www.mageia-gr.org/rpm/4/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/4/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-i586 http://www.mageia-gr.org/rpm/3/i586/</Comando>
+  </Rama>
+  <Rama>
+  <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/3/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-x86_64 http://www.mageia-gr.org/rpm/3/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/3/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-i586 http://www.mageia-gr.org/rpm/2/i586/</Comando>
+  </Rama>
+  <Rama>
+  <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/2/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-x86_64 http://www.mageia-gr.org/rpm/2/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/2/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>1</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-i586 http://www.mageia-gr.org/rpm/1/i586/</Comando>
+  </Rama>
+  <Rama>
+   <Version>1</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/1/noarch/</Comando>
+ </Rama>
+ <Rama>
+   <Version>1</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-x86_64 http://www.mageia-gr.org/rpm/1/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>1</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NOARCH</Categoria>
+   <Comando>urpmi.addmedia --wget MGR-noarch http://www.mageia-gr.org/rpm/1/noarch/</Comando>
+ </Rama>
+</Repositorio>
+
+<Repositorio>
+ <Nombre>MGA Pl</Nombre>
+ <NCompleto>Mageia Poland</NCompleto>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-i586 http://repo.mageia.org.pl/5/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-x86_64 http://repo.mageia.org.pl/5/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-i586 http://repo.mageia.org.pl/4/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-x86_64 http://repo.mageia.org.pl/4/x86_64/</Comando>
+ </Rama>
+  <Rama>
+   <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-i586 http://repo.mageia.org.pl/3/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-x86_64 http://repo.mageia.org.pl/3/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-i586 http://repo.mageia.org.pl/2/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-x86_64 http://repo.mageia.org.pl/2/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>1</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-i586 http://repo.mageia.org.pl/1/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>1</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --nopubkey MGA-PL-x86_64 http://repo.mageia.org.pl/1/x86_64/</Comando>
+ </Rama>
+</Repositorio>
+
+<Repositorio>
+ <Nombre>MGA RU</Nombre>
+ <NCompleto>Mageia Rusia</NCompleto>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia5/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia5/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia4/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia4/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia3/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia3/x86_64/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia2/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget --distrib --nopubkey http://packages.mageialinux.ru/mageia2/x86_64/</Comando>
+ </Rama>
+</Repositorio>
+
+<Repositorio>
+ <Nombre>MLO</Nombre>
+ <NCompleto>Mageia Linux Online</NCompleto>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/5/i586/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/5/i586/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/5/i586/tainted/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/5/x86_64/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/5/x86_64/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>5</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/5/x86_64/tainted/</Comando>
+ </Rama>
+ 
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/4/i586/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/4/i586/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/4/i586/tainted/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/4/x86_64/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/4/x86_64/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>4</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/4/x86_64/tainted/</Comando>
+ </Rama>
+ 
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/3/i586/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/3/i586/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/3/i586/tainted/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/3/x86_64/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/3/x86_64/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>3</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/3/x86_64/tainted/</Comando>
+ </Rama>
+ 
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/2/i586/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/2/i586/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-32 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/2/i586/tainted/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-core-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/2/x86_64/core/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>NONFREE</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-nonfree-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/2/x86_64/nonfree/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>TAINTED</Categoria>
+   <Comando>urpmi.addmedia --wget mlo-tainted-64 ftp://download.asso-linux-online.fr/download/packages-mlo/Mageia/2/x86_64/tainted/</Comando>
+ </Rama>
+</Repositorio>
+<Repositorio>
+ <Nombre>Petos</Nombre>
+ <NCompleto>Mageia Cz</NCompleto>
+ <Rama>
+  <Version>4</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos</Categoria>
+  <Comando>urpmi.addmedia petos-i586 http://petos.cz/rpm/mageia/4/i586/</Comando>
+ </Rama>
+ <Rama>
+  <Version>4</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-games</Categoria>
+  <Comando>urpmi.addmedia petos-games-32 http://petos.cz/rpm/games/i586/</Comando>
+ </Rama>
+ <Rama>
+  <Version>4</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-flightgear</Categoria>
+  <Comando>urpmi.addmedia petos-flightgear http://petos.cz/rpm/flightgear/</Comando>
+ </Rama>
+ 
+ <Rama>
+  <Version>4</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos</Categoria>
+  <Comando>urpmi.addmedia petos-x86_64 http://petos.cz/rpm/mageia/4/x86_64/</Comando>
+ </Rama>
+ <Rama>
+  <Version>4</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-games</Categoria>
+  <Comando>urpmi.addmedia petos-games-64 http://petos.cz/rpm/games/x86_64/</Comando>
+ </Rama>
+ <Rama>
+  <Version>4</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-flightgear</Categoria>
+  <Comando>urpmi.addmedia petos-flightgear http://petos.cz/rpm/flightgear/</Comando>
+ </Rama>
+ <Rama>
+  <Version>3</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos</Categoria>
+  <Comando>urpmi.addmedia petos-i586 http://petos.cz/rpm/mageia/3/i586/</Comando>
+ </Rama>
+ <Rama>
+  <Version>3</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-games</Categoria>
+  <Comando>urpmi.addmedia petos-games-32 http://petos.cz/rpm/games/i586/</Comando>
+ </Rama>
+ <Rama>
+  <Version>3</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-flightgear</Categoria>
+  <Comando>urpmi.addmedia petos-flightgear http://petos.cz/rpm/flightgear/</Comando>
+ </Rama>
+ 
+ <Rama>
+  <Version>3</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos</Categoria>
+  <Comando>urpmi.addmedia petos-x86_64 http://petos.cz/rpm/mageia/3/x86_64/</Comando>
+ </Rama>
+ <Rama>
+  <Version>3</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-games</Categoria>
+  <Comando>urpmi.addmedia petos-games-64 http://petos.cz/rpm/games/x86_64/</Comando>
+ </Rama>
+ <Rama>
+  <Version>3</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-flightgear</Categoria>
+  <Comando>urpmi.addmedia petos-flightgear http://petos.cz/rpm/flightgear/</Comando>
+ </Rama>
+ <Rama>
+  <Version>2</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos</Categoria>
+  <Comando>urpmi.addmedia petos-i586 http://petos.cz/rpm/mageia/2/i586/</Comando>
+ </Rama>
+ <Rama>
+  <Version>2</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-games</Categoria>
+  <Comando>urpmi.addmedia petos-games-32 http://petos.cz/rpm/games/i586/</Comando>
+ </Rama>
+ <Rama>
+  <Version>2</Version>
+  <Arquitectura>i586</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-flightgear</Categoria>
+  <Comando>urpmi.addmedia petos-flightgear http://petos.cz/rpm/flightgear/</Comando>
+ </Rama>
+ 
+ <Rama>
+  <Version>2</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos</Categoria>
+  <Comando>urpmi.addmedia petos-x86_64 http://petos.cz/rpm/mageia/2/x86_64/</Comando>
+ </Rama>
+ <Rama>
+  <Version>2</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-games</Categoria>
+  <Comando>urpmi.addmedia petos-games-64 http://petos.cz/rpm/games/x86_64/</Comando>
+ </Rama>
+ <Rama>
+  <Version>2</Version>
+  <Arquitectura>x86_64</Arquitectura>
+  <Protocolo>HTTP</Protocolo>
+  <Categoria>petos-flightgear</Categoria>
+  <Comando>urpmi.addmedia petos-flightgear http://petos.cz/rpm/flightgear/</Comando>
+ </Rama>
+</Repositorio>
+
+<Repositorio>
+ <Nombre>Berenger</Nombre>
+ <NCompleto>Berenger's repository</NCompleto>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>i586</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget Beranger http://mageia.beranger.org/mageia/2/RPMS/i586/</Comando>
+ </Rama>
+ <Rama>
+   <Version>2</Version>
+   <Arquitectura>x86_64</Arquitectura>
+   <Protocolo>HTTP</Protocolo>
+   <Categoria>FREE</Categoria>
+   <Comando>urpmi.addmedia --wget Beranger http://mageia.beranger.org/mageia/2/RPMS/x86_64/</Comando>
+ </Rama>
+</Repositorio>
+<!-- Este es el formato general de un repositorio:
+
+<Repositorio>
+  <Nombre></Nombre>
+   <NCompleto></NCompleto>
+  <Comentario>
+     <es><![CDATA[     ]></es>
+     <en><![CDATA[     ]></en>
+      ....
+  </Comentario>
+  <Rama>
+      <Version></Version>
+      <Arquitectura></Arquitectura>
+      <Protocolo></Protocolo>
+      <Categoria></Categoria>
+      <Comando></Comando>
+  </Rama>
+</Repositorio>
+
+-->
+</ListaRepositorios>

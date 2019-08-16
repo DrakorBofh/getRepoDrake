@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<ListaRepositorios>
+<Repositorio>
+  <Nombre>MIB</Nombre>
+  <NCompleto>Mandriva International Backports</NCompleto>
+  <Description></Description>
+  <Rama>
+      <Version>2014.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_32 http://mib.pianetalinux.org/MIB/omv2014.0/32/basic/ </Comando>
+   </Rama>
+   <Rama>
+      <Version>2014.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_64 http://mib.pianetalinux.org/MIB/omv2014.0/64/basic/ </Comando>
+   </Rama>
+    <Rama>
+      <Version>2013</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_32 http://mib.pianetalinux.org/MIB/omv2013/32/basic/ </Comando>
+   </Rama>
+   <Rama>
+      <Version>2013</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_64 http://mib.pianetalinux.org/MIB/omv2013/64/basic/ </Comando>
+   </Rama>
+</Repositorio>
+
+
+<!-- Este es el formato general de un repositorio:
+
+<Repositorio>
+  <Nombre></Nombre>
+   <NCompleto></NCompleto>
+  <Comentario>
+     <es><![CDATA[     ]></es>
+     <en><![CDATA[     ]></en>
+      ....
+  </Comentario>
+  <Rama>
+      <Version></Version>
+      <Arquitectura></Arquitectura>
+      <Protocolo></Protocolo>
+      <Categoria></Categoria>
+      <Comando></Comando>
+  </Rama>
+</Repositorio>
+
+-->
+
+</ListaRepositorios>

@@ -1,0 +1,531 @@
+<?xml version='1.0'?>
+<ListaRepositorios>
+
+<Repositorio>
+  <Nombre>EduMandriva</Nombre>
+  <NCompleto>EduMandriva.ru</NCompleto>
+  <Description></Description>
+  <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2011.0/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2011.0/x86_64</Comando>
+   </Rama>
+      
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2010.1/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2010.1</Comando>
+  </Rama>
+  
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2010.0/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2010.0/x86_64</Comando>
+  </Rama>
+ 
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2009.1/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2009.1/x86_64</Comando>
+  </Rama>
+  
+  
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2009.0/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2009.0/x86_64</Comando>
+  </Rama>
+  
+    <Rama>
+      <Version>2008.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>MIXED AUTO</Categoria>
+      <Comando>urpmi.addmedia --wget --distrib ftp://ftp.mandriva.ru/EduMandriva/cfg/2008.1/i586 </Comando>
+  </Rama>
+</Repositorio>
+
+<Repositorio>
+  <Nombre>MUG</Nombre>
+  <NCompleto>Mandriva Users Grecia</NCompleto>
+  <Description></Description>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --wget MdvGR-i586 http://www.mandrivalinux.gr/rpm/2010.1/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>NOARCH</Categoria>
+      <Comando>urpmi.addmedia --wget MdvGR-noarch http://www.mandrivalinux.gr/rpm/2010.1/noarch</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --wget MdvGR-i586 http://www.mandrivalinux.gr/rpm/2010.0/i586</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>NOARCH</Categoria>
+      <Comando>urpmi.addmedia --wget MdvGR-noarch http://www.mandrivalinux.gr/rpm/2010.0/noarch</Comando>
+  </Rama>
+   <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --wget MdvGR-i586 http://www.mandrivalinux.gr/rpm/2009.1/i586 with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>NOARCH</Categoria>
+      <Comando>urpmi.addmedia --wget MdvGR-noarch http://www.mandrivalinux.gr/rpm/2009.1/noarch with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+</Repositorio>
+
+
+<Repositorio>
+  <Nombre>MUT</Nombre>
+  <NCompleto>Mandriva Users Turkiye</NCompleto>
+  <Description></Description>
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.1-i586-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.1/i586/free</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.1-i586-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.1/i586/non-free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.1-x86_64-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.1/x86_64/free</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.1-x86_64-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.1/x86_64/non-free</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.0-i586-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.0/i586/free</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.0-i586-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.0/i586/non-free</Comando>
+  </Rama>
+    <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.0-x86_64-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.0/x86_64/free</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2010.0-x86_64-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2010.0/x86_64/non-free</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.1-i586-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.1/i586/free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.1-i586-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.1/i586/non-free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.1-x86_64-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.1/x86_64/free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.1-x86_64-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.1/x86_64/non-free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.0-i586-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.0/i586/free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.0-i586-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.0/i586/non-free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.0-x86_64-free ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.0/x86_64/free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia mvt-2009.0-x86_64-nonfree ftp://ftp.linux.org.tr/pub/mandriva-tr/2009.0/x86_64/non-free with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+</Repositorio>
+
+
+<Repositorio>
+  <Nombre>MUD</Nombre>
+   <NCompleto>Mandriva User Deutsche</NCompleto>
+  <Comentario>  </Comentario>
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2010.1/i586/release</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2010.1/x86_64/release</Comando>
+  </Rama>  
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2010.0/i586/release</Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2010.0/x86_64/release</Comando>
+  </Rama>  
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2009.1/i586/release/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2009.1/x86_64/release/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>    
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>i586</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2009.0/i586/release/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>FTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia mud-free_release ftp://ftp.mandrivauser.de/rpm/GPL/2009.0/x86_64/release/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>    
+</Repositorio>
+
+
+<Repositorio>
+  <Nombre>MRB</Nombre>
+   <NCompleto>Mandrivausers Romanian Backports</NCompleto>
+  <Comentario> </Comentario>
+    <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update MRBi686_rpms  http://mrb.mandrivausers.ro/MRB/2011.0/i686/MRB-rpms  </Comando>
+  </Rama>
+  <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update MRBx86_64_rpms http://mrb.mandrivausers.ro/MRB/2011.0/x86_64/MRB-rpms </Comando>
+  </Rama>  
+  
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update 'MRBi686_rpms' 'http://mrb.mandrivausers.ro/MRB/2010.1/i686/MRB-rpms' with media_info/hdlist.cz </Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update 'MRBx86_64_rpms' 'http://mrb.mandrivausers.ro/MRB/2010.1/x86_64/MRB-rpms' with media_info/hdlist.cz </Comando>
+  </Rama>  
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update 'MRBi686_rpms' 'http://mrb.mandrivausers.ro/MRB/2010.0/i686/MRB-rpms' with media_info/hdlist.cz </Comando>
+  </Rama>
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update 'MRBx86_64_rpms' 'http://mrb.mandrivausers.ro/MRB/2010.0/x86_64/MRB-rpms' with media_info/hdlist.cz </Comando>
+  </Rama>  
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update 'MRBi686_rpms' 'http://mrb.mandrivausers.ro/MRB/2009.1/i686/MRB-rpms' with media_info/hdlist.cz </Comando>
+  </Rama>
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update 'MRBx86_64_rpms' 'http://mrb.mandrivausers.ro/MRB/2009.1/x86_64/MRB-rpms' with media_info/hdlist.cz  </Comando>
+  </Rama>   
+</Repositorio>
+
+<Repositorio>
+  <Nombre>MIB</Nombre>
+  <NCompleto>Mandriva International Backports</NCompleto>
+  <Description></Description>
+    <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_32 http://mib.pianetalinux.org/MIB/2011.0/32/basic/ </Comando>
+  </Rama>
+    <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>EXPERTS</Categoria>
+      <Comando>urpmi.addmedia MIB-experts_32 http://mib.pianetalinux.org/MIB/2011.0/32/experts/ </Comando>
+  </Rama>
+   <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_64 http://mib.pianetalinux.org/MIB/2011.0/64/basic/ </Comando>
+  </Rama>
+    <Rama>
+      <Version>2011.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>EXPERTS</Categoria>
+      <Comando>urpmi.addmedia MIB-experts_64 http://mib.pianetalinux.org/MIB/2011.0/64/experts/ </Comando>
+  </Rama>
+	
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_32 http://mib.pianetalinux.org/MIB/2010.1/32/basic/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>EXPERTS</Categoria>
+      <Comando>urpmi.addmedia MIB-experts_32 http://mib.pianetalinux.org/MIB/2010.1/32/experts/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+   <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_64 http://mib.pianetalinux.org/MIB/2010.1/64/basic/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2010.2</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>EXPERTS</Categoria>
+      <Comando>urpmi.addmedia MIB-experts_64 http://mib.pianetalinux.org/MIB/2010.1/64/experts/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  
+  <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_32 http://mib.pianetalinux.org/MIB/2010.0/32/basic/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>EXPERTS</Categoria>
+      <Comando>urpmi.addmedia MIB-experts_32 http://mib.pianetalinux.org/MIB/2010.0/32/experts/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+   <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>BASIC</Categoria>
+      <Comando>urpmi.addmedia --update MIB-basic_64 http://mib.pianetalinux.org/MIB/2010.0/64/basic/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2010.0</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>EXPERTS</Categoria>
+      <Comando>urpmi.addmedia MIB-experts_64 http://mib.pianetalinux.org/MIB/2010.0/64/experts/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+
+  <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update MIB-FREE_i686 http://mib.pianetalinux.org/2009.1/i686/MIB-free/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+      <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>i686</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia --update MIB-FREE_i686 http://mib.pianetalinux.org/2009.1/i686/MIB-free/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+    <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>FREE</Categoria>
+      <Comando>urpmi.addmedia --update MIB-FREE_x64 http://mib.pianetalinux.org/2009.1/x86_64/MIB-free/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+      <Rama>
+      <Version>2009.1</Version>
+      <Arquitectura>x86_64</Arquitectura>
+      <Protocolo>HTTP</Protocolo>
+      <Categoria>NON-FREE</Categoria>
+      <Comando>urpmi.addmedia --update MIB-NOFREE_x64 http://mib.pianetalinux.org/2009.1/x86_64/MIB-nonfree/ with media_info/synthesis.hdlist.cz</Comando>
+  </Rama>
+  
+</Repositorio>
+
+
+<!-- Este es el formato general de un repositorio:
+
+<Repositorio>
+  <Nombre></Nombre>
+   <NCompleto></NCompleto>
+  <Comentario>
+     <es><![CDATA[     ]></es>
+     <en><![CDATA[     ]></en>
+      ....
+  </Comentario>
+  <Rama>
+      <Version></Version>
+      <Arquitectura></Arquitectura>
+      <Protocolo></Protocolo>
+      <Categoria></Categoria>
+      <Comando></Comando>
+  </Rama>
+</Repositorio>
+
+-->
+
+</ListaRepositorios>

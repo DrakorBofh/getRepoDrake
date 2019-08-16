@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GetRepoDrake\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-13 18:23-0600\n"
+"PO-Revision-Date: 2015-08-13 18:25-0600\n"
+"Last-Translator: katnatek <j.alberto.vc@gmail.com>\n"
+"Language-Team: MDKTrans\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _T\n"
+"X-Poedit-Basepath: /home/katnatek/Proyectos/\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SearchPath-0: GetRepoDrake\n"
+
+#: GetRepoDrake/DistSel.php:38 GetRepoDrake/embeded/DistSel.php:26
+msgid ""
+"Obtenga la lista de repositorios Comunitarios de OpenMandriva y Mageia Linux."
+msgstr "Get OpenMandriva or Mageia Linux's Community repository list."
+
+#: GetRepoDrake/embeded/DistSel.php:34 GetRepoDrake/formularios.php:22
+#: GetRepoDrake/formularios.php:49
+msgid "Seleccione Distribución"
+msgstr "Select Distribution"
+
+#: GetRepoDrake/embeded/DistSel.php:47 GetRepoDrake/embeded/form-mdv.php:58
+#: GetRepoDrake/embeded/form-mga.php:59 GetRepoDrake/embeded/form-omdv.php:59
+#: GetRepoDrake/formularios.php:34 GetRepoDrake/formularios.php:79
+#: GetRepoDrake/formularios.php:110
+msgid "Siguiente"
+msgstr "Next"
+
+#: GetRepoDrake/embeded/form-mdv.php:29
+msgid "Obtenga la lista de repositorios Comunitarios de Mandriva Linux."
+msgstr "Get OpenMandriva  Linux's Community repository list."
+
+#: GetRepoDrake/embeded/form-mdv.php:33 GetRepoDrake/embeded/form-mga.php:35
+#: GetRepoDrake/embeded/form-omdv.php:35 GetRepoDrake/formularios.php:62
+#: GetRepoDrake/formularios.php:71 GetRepoDrake/formularios.php:95
+msgid "Versión"
+msgstr "Version"
+
+#: GetRepoDrake/embeded/form-mdv.php:40 GetRepoDrake/embeded/form-mga.php:41
+#: GetRepoDrake/embeded/form-omdv.php:41 GetRepoDrake/formularios.php:57
+#: GetRepoDrake/formularios.php:103
+msgid "Arquitectura"
+msgstr "Architecture"
+
+#: GetRepoDrake/embeded/form-mdv.php:45
+msgid "Selección de repositorios No-oficiales"
+msgstr "Selection of Non-oficial repositories"
+
+#: GetRepoDrake/embeded/form-mdv.php:51 GetRepoDrake/embeded/getRepo.php:42
+#: GetRepoDrake/getRepo2.php:48
+msgid "Ha ocurrido un problema interno. Contactese con el administrador."
+msgstr "An internal problem happened. Contact your administrator."
+
+#: GetRepoDrake/embeded/form-mga.php:30
+msgid "Obtenga la lista de repositorios Comunitarios de Mageia Linux."
+msgstr "Get Mageia Linux's Community repository list."
+
+#: GetRepoDrake/embeded/form-omdv.php:30
+msgid "Obtenga la lista de repositorios Comunitarios de OpenMandriva Linux."
+msgstr "Get OpenMandriva  Linux's Community repository list."
+
+#: GetRepoDrake/embeded/getRepo.php:32 GetRepoDrake/getRepo2.php:39
+msgid "Selección de repositorios No-oficiales para"
+msgstr "Selection of Non-oficial repositories"
+
+#: GetRepoDrake/embeded/getRepo.php:33 GetRepoDrake/getRepo2.php:40
+msgid "para la arquitectura"
+msgstr "for the architecture"
+
+#: GetRepoDrake/embeded/getRepo.php:66 GetRepoDrake/getRepo2.php:69
+msgid "Debe seleccionar al menos un repositorio."
+msgstr "You must select at least one repository."
+
+#: GetRepoDrake/embeded/getRepo.php:127 GetRepoDrake/getRepo2.php:130
+msgid "Agregame mediante gui"
+msgstr "Add me with gui"
+
+#: GetRepoDrake/embeded/getRepo.php:128 GetRepoDrake/getRepo2.php:131
+msgid "Elija"
+msgstr "Choose"
+
+#: GetRepoDrake/embeded/getRepo.php:128 GetRepoDrake/getRepo2.php:131
+msgid "Abrir con"
+msgstr "Open with"
+
+#: GetRepoDrake/embeded/getRepo.php:129 GetRepoDrake/getRepo2.php:132
+msgid "y presione"
+msgstr "and press"
+
+#: GetRepoDrake/embeded/getRepo.php:129 GetRepoDrake/getRepo2.php:132
+msgid "Aceptar"
+msgstr "Ok or Accept"
+
+#: GetRepoDrake/embeded/getRepo.php:144 GetRepoDrake/getRepo2.php:146
+#: GetRepoDrake/getRepo2.php:147
+msgid "No contiene ningún repositorio para las opciones escogidas."
+msgstr "No repository for the selected choices."
+
+#: GetRepoDrake/embeded/getRepo.php:176 GetRepoDrake/getRepo2.php:172
+msgid "Añadir seleccionados mediante script"
+msgstr "Add selected with script"
+
+#: GetRepoDrake/embeded/index.php:51 GetRepoDrake/index.php:72
+msgid "Si desea que se añada o quite algun repositorio"
+msgstr "If you like that we add or remove some repository"
+
+#: GetRepoDrake/embeded/index.php:52 GetRepoDrake/index.php:74
+msgid "Pidalo en los foros de BlogDrake"
+msgstr "Ask nice for it in the forums of BlogDrake"
+
+#: GetRepoDrake/embeded/index.php:53 GetRepoDrake/index.php:75
+msgid "Si quiere añadir o corregir una traducción"
+msgstr "If you want add or fix a translation"
+
+#: GetRepoDrake/embeded/index.php:54 GetRepoDrake/index.php:76
+msgid "Lea"
+msgstr "Read"
+
+#: GetRepoDrake/embeded/index.php:54 GetRepoDrake/index.php:76
+msgid "Esto"
+msgstr "This"
+
+#: GetRepoDrake/embeded/index.php:56 GetRepoDrake/getRepo2.php:175
+msgid ""
+"Si no sabes qué es urpmi / rpmdrake o qué es un repositorio, revisa estos "
+"enlaces:"
+msgstr ""
+"Check these links if you don't know what an urpmi / rpmdrake or a repository "
+"is:"
+
+#: GetRepoDrake/embeded/index.php:58 GetRepoDrake/getRepo2.php:176
+msgid ""
+"Todo lo que siempre quisiste saber sobre urpmi pero nunca te atreviste a "
+"preguntar."
+msgstr "All that you want to know about urpmi but never dared to ask."
+
+#: GetRepoDrake/embeded/index.php:60 GetRepoDrake/getRepo2.php:177
+msgid "¿Qué es un repositorio?."
+msgstr "What a repository is?."
+
+#: GetRepoDrake/embeded/index.php:63
+msgid "Version externa"
+msgstr "External version"
+
+#: GetRepoDrake/formularios.php:21 GetRepoDrake/formularios.php:48
+#: GetRepoDrake/formularios.php:93
+msgid "Distribución"
+msgstr "Distribution"
+
+#: GetRepoDrake/piepagina.php:29
+msgid "Bajo licencia Affero GPL v3 o superior."
+msgstr "Licensed under  Affero GPL v3 or later version."
+
+#: GetRepoDrake/piepagina.php:30
+msgid "Ultima actualización"
+msgstr "Last update"
+
+#: GetRepoDrake/piepagina.php:51
+msgid "Autor"
+msgstr "Author"
+
+#: GetRepoDrake/piepagina.php:52
+msgid "Mantenedor Actual"
+msgstr "Actual Maintainer"
+
+#: GetRepoDrake/piepagina.php:53
+msgid "Agradecimiento"
+msgstr "Thanks"
+
+#~ msgid "Generar script."
+#~ msgstr "Script generation."
+
+#~ msgid "¡ADVERTENCIA!"
+#~ msgstr "WARNING!"

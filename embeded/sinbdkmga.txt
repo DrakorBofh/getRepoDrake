@@ -1,0 +1,22 @@
+* borrar:
+-SRPMS:
+ftp://ftp.blogdrake.net/mageia/mageia4/SRPMS/kde-ExtractAndCompress-servicemenu-1.4.4-1.mga4.src.rpm
+
+-noarch:
+ftp://ftp.blogdrake.net/mageia/mageia4/free/noarch/kde-ExtractAndCompress-servicemenu-1.4.4-1.mga4.noarch.rpm
+
+-i586:
+ftp://ftp.blogdrake.net/mageia/mageia4/free/i586/libzrtpcpp-devel-2.0.0-1bdk.mga4.i586.rpm
+ftp://ftp.blogdrake.net/mageia/mageia4/free/i586/libzrtpcpp2-2.0.0-1bdk.mga4.i586.rpm
+
+* copiar:
+-SRPMS:
+kde-ExtractAndCompress-servicemenu-1.4.4-1.mga4.src.rpm
+libzrtpcpp-2.0.0-1bdk.mga4.src.rpm
+
+-noarch:
+kde-ExtractAndCompress-servicemenu-1.4.4-1bdk.mga4.noarch.rpm
+
+-i586:
+libzrtpcpp-devel-2.0.0-1bdk.mga4.i586.rpm
+libzrtpcpp2-2.0.0-1bdk.mga4.i586.rpm
